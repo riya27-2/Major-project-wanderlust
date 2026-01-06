@@ -16,21 +16,28 @@ git clone https://github.com/riya27-2/major-project-airbnb.git
 
 cd major-project-airbnb
 
-3. Install dependencies
+2. Install dependencies
+
+
 npm install
 
-3️3. Setup environment variables
+3️. Setup environment variables
 
 Create a .env file in the root folder:
 
 ATLASDB_URL=your_mongodb_connection_string
+
+
 SECRET=your_session_secret
 
 
 ▶️ How to Run the Project
+
+
 node app.js
 
 
 
 Then open browser:
+
 👉 http://localhost:3000
