@@ -13,9 +13,10 @@ Database: MongoDB (MongoDB Atlas)
 
 1. Clone the repository
 git clone https://github.com/riya27-2/major-project-airbnb.git
+
 cd major-project-airbnb
 
-2. Install dependencies
+3. Install dependencies
 npm install
 
 3️3. Setup environment variables
